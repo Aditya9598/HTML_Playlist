@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+div{
+    text-align: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: chartreuse;
+}
+
+#circle{
+    background-color: blueviolet;
+    border-radius: 50%;
+}

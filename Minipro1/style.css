@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box{
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sqr {
+   
+    height: 200px;
+    width: 200px;
+  
+}
+#sqr :hover {
+    background-color: red;
+   
+  
+}
+#dia{
+   
+    height: 200px;
+    width: 200px;
+ 
+    rotate: 40deg;
+    margin-top: 50px;
+
+}
+#dia :hover{
+    background-color: blue;
+  
+
+}
+#circle{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    
+}
+#circle :hover{
+   
+    background-color: green;
+}

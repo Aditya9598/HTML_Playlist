@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    /* background-color: aqua; */
+    /* color:brown; */
+}
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    color:chocolate;
+    font-family: 'Gill Sans';
+    font-style: oblique;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 50%;
+    height: 10%;
+     
+}
